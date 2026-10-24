@@ -1,0 +1,87 @@
+{
+  "documentos_com_palavraschave": 513,
+  "limiar_termos": 6,
+  "normalizacao": {
+    "FISCAL DECENTRALISATION": "FISCAL DECENTRALIZATION",
+    "LOCAL GOVERNMENTS": "LOCAL GOVERNMENT",
+    "INTERGOVERNMENTAL TRANSFER": "INTERGOVERNMENTAL TRANSFERS",
+    "INTERGOVERNMENTAL GRANT": "INTERGOVERNMENTAL GRANTS",
+    "PUBLIC EXPENDITURES": "PUBLIC EXPENDITURE",
+    "MUNICIPAL GOVERNMENTS": "MUNICIPALITIES",
+    "FEDERALISM": "FISCAL FEDERALISM",
+    "FLYPAPER EFFECTS": "FLYPAPER EFFECT",
+    "FLY PAPER EFFECT": "FLYPAPER EFFECT",
+    "PUBLIC SPENDING": "PUBLIC EXPENDITURE"
+  },
+  "comunidades": [
+    {
+      "terms": [
+        "DECENTRALIZATION",
+        "ECONOMIC GROWTH",
+        "FISCAL AUTONOMY",
+        "FISCAL DECENTRALIZATION",
+        "FISCAL TRANSFERS",
+        "GHANA",
+        "INDONESIA",
+        "INTERGOVERNMENTAL TRANSFERS",
+        "LOCAL PUBLIC FINANCE",
+        "MUNICIPALITIES",
+        "MUNICIPALITY",
+        "POLITICAL ECONOMY"
+      ],
+      "top": [
+        "FISCAL DECENTRALIZATION",
+        "INTERGOVERNMENTAL TRANSFERS",
+        "DECENTRALIZATION"
+      ],
+      "density": 1.2272727272727273,
+      "centrality": 98,
+      "freq": 314,
+      "size": 12
+    },
+    {
+      "terms": [
+        "FISCAL CAPACITY",
+        "FISCAL FEDERALISM",
+        "FLYPAPER EFFECT",
+        "H77",
+        "INTERGOVERNMENTAL GRANTS",
+        "LOCAL GOVERNMENT EXPENDITURE",
+        "PUBLIC FINANCE",
+        "PUBLIC GOODS"
+      ],
+      "top": [
+        "FLYPAPER EFFECT",
+        "INTERGOVERNMENTAL GRANTS",
+        "FISCAL FEDERALISM"
+      ],
+      "density": 1.5357142857142858,
+      "centrality": 82,
+      "freq": 195,
+      "size": 8
+    },
+    {
+      "terms": [
+        "DISTRIBUTIVE POLITICS",
+        "EFFICIENCY",
+        "FISCAL ILLUSION",
+        "FISCAL POLICY",
+        "GRANTS",
+        "LOCAL GOVERNMENT",
+        "PANEL DATA",
+        "POLITICAL BUDGET CYCLES",
+        "PUBLIC EXPENDITURE"
+      ],
+      "top": [
+        "FISCAL ILLUSION",
+        "LOCAL GOVERNMENT",
+        "PUBLIC EXPENDITURE"
+      ],
+      "density": 1.0833333333333333,
+      "centrality": 90,
+      "freq": 193,
+      "size": 9
+    }
+  ],
+  "obs": "Mapeamento exploratório com NetworkX, NÃO saída nativa do bibliometrix."
+}

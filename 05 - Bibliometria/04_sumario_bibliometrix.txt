@@ -1,0 +1,480 @@
+
+
+MAIN INFORMATION ABOUT DATA
+
+ Timespan                              1964 : 2026 
+ Sources (Journals, Books, etc)        336 
+ Documents                             721 
+ Annual Growth Rate %                  6.37 
+ Document Average Age                  12.8 
+ Average citations per doc             17.56 
+ Average citations per year per doc    1.343 
+ References                            1 
+ 
+DOCUMENT TYPES                     
+ article      721 
+ 
+DOCUMENT CONTENTS
+ Keywords Plus (ID)                    688 
+ Author's Keywords (DE)                1426 
+ 
+AUTHORS
+ Authors                               1287 
+ Author Appearances                    1539 
+ Authors of single-authored docs       210 
+ 
+AUTHORS COLLABORATION
+ Single-authored docs                  225 
+ Documents per Author                  0.56 
+ Co-Authors per Doc                    2.13 
+ International co-authorships %        15.67 
+ 
+
+Annual Scientific Production
+
+ Year    Articles
+    1964        1
+    1975        1
+    1976        1
+    1977        2
+    1978        3
+    1980        2
+    1982        5
+    1983        4
+    1984        4
+    1985        3
+    1986        3
+    1987        6
+    1988        7
+    1989        3
+    1990        7
+    1991        3
+    1992        6
+    1993        7
+    1994        4
+    1995        9
+    1996        7
+    1997        2
+    1998        9
+    1999        8
+    2000        5
+    2001       16
+    2002       10
+    2003        6
+    2004        8
+    2005        6
+    2006        6
+    2007       12
+    2008       15
+    2009       11
+    2010       11
+    2011       21
+    2012       19
+    2013       12
+    2014       21
+    2015       30
+    2016       28
+    2017       43
+    2018       30
+    2019       31
+    2020       34
+    2021       37
+    2022       45
+    2023       30
+    2024       37
+    2025       44
+    2026       46
+
+Annual Percentage Growth Rate 6.37 
+
+
+Most Productive Authors
+
+       Authors        Articles     Authors        Articles Fractionalized
+1  PARK S                    6 TURNBULL GK                           3.50
+2  BASTIDA F                 5 PARK S                                3.00
+3  JONES P                   5 TIMUSHEV EN                           3.00
+4  MARTINEZ-VAZQUEZ J        5 WYCKOFF PG                            3.00
+5  MORRISSEY O               5 MARTINEZ-VAZQUEZ J                    2.83
+6  SACCHI A                  5 HEYNDELS B                            2.50
+7  ABBOTT A                  4 MALIČKÁ L                             2.50
+8  BENITO B                  4 KIM J                                 2.33
+9  DOLLERY BE                4 JONES P                               2.25
+10 GEMMELL N                 4 ABBOTT A                              2.00
+11 GUILLAMÓN MD              4 DILORENZO TJ                          2.00
+12 HEYNDELS B                4 DOLLERY BE                            2.00
+13 KIM J                     4 GEMMELL N                             2.00
+14 KIM Y                     4 GORDON S                              2.00
+15 LIU L                     4 KALB A                                2.00
+16 MAHER CS                  4 LOWERY D                              2.00
+17 PORCELLI F                4 MAHER CS                              2.00
+18 PORTO A                   4 MOURAO PR                             2.00
+19 SALOTTI S                 4 MOURÃO PR                             2.00
+20 SMOLDERS C                4 NENKOVA P                             2.00
+
+
+Top manuscripts per citations
+
+                                  Paper                                         DOI  TC TCperYear   NTC
+1  ZHANG K, 2017, ENERGY POLICY                  10.1016/j.enpol.2017.01.023        306     30.60 14.85
+2  EVANS WN, 2007, J PUBLIC ECON                 10.1016/j.jpubeco.2006.05.014      275     13.75  4.51
+3  WAGNER RE, 1976, PUBLIC CHOICE                10.1007/BF01726330                 267      5.24  1.00
+4  KNIGHT B, 2002, AM ECON REV                   10.1257/000282802760015612         248      9.92  4.57
+5  GUILLAMÓN MD, 2011, LOCAL GOV STUD            10.1080/03003930.2011.588704       239     14.94  6.94
+6  BROWNING EDGARK, 1975, ECON INQ               10.1111/j.1465-7295.1975.tb00255.x 207      3.98  1.00
+7  REMMER KL, 2004, AM J POLIT SCI               10.1111/j.0092-5853.2004.00057.x   183      7.96  3.35
+8  BLUME L, 1984, QUARTERLY JOURNAL OF ECONOMICS 10.2307/1885721                    177      4.12  2.51
+9  FAFCHAMPS M, 2014, J DEV ECON                 10.1016/j.jdeveco.2013.09.010      171     13.15  7.54
+10 GORDON N, 2004, J PUBLIC ECON                 10.1016/j.jpubeco.2003.09.002      170      7.39  3.11
+11 ANSOLABEHERE S, 2006, SCAND J ECON            10.1111/j.1467-9442.2006.00470.x   170      8.10  4.15
+12 POMMEREHNE WW, 1978, KYKLOS                   10.1111/j.1467-6435.1978.tb00648.x 156      3.18  2.49
+13 BASTIDA F, 2007, PUBLIC ADM                   10.1111/j.1467-9299.2007.00664.x   155      7.75  2.54
+14 HAMILTON BW, 1983, J PUBLIC ECON              10.1016/0047-2727(83)90040-3       135      3.07  2.71
+15 BRACCO E, 2015, J PUBLIC ECON                 10.1016/j.jpubeco.2014.11.007      132     11.00  9.25
+16 KUAI P, 2019, J CLEAN PROD                    10.1016/j.jclepro.2019.118089      126     15.75  7.19
+17 DAHLBERG M, 2008, J PUBLIC ECON               10.1016/j.jpubeco.2007.05.004      118      6.21  4.72
+18 CARROLL DA, 2009, PUBLIC BUDGETING FINANC     10.1111/j.1540-5850.2009.00922.x   114      6.33  3.35
+19 FISHER RC, 1982, J URBAN ECON                 10.1016/0094-1190(82)90021-3       114      2.53  2.24
+20 WITTE KD, 2011, J URBAN ECON                  10.1016/j.jue.2010.12.002          106      6.62  3.08
+
+
+Corresponding Author's Countries
+
+          Country Articles   Freq SCP MCP MCP_Ratio
+1  USA                  96 0.2133  79  17    0.1771
+2  CHINA                42 0.0933  35   7    0.1667
+3  ITALY                24 0.0533  14  10    0.4167
+4  SPAIN                20 0.0444  12   8    0.4000
+5  UNITED KINGDOM       20 0.0444  10  10    0.5000
+6  INDONESIA            17 0.0378  14   3    0.1765
+7  JAPAN                16 0.0356  15   1    0.0625
+8  KOREA                16 0.0356  12   4    0.2500
+9  BRAZIL               14 0.0311  12   2    0.1429
+10 GERMANY              12 0.0267   9   3    0.2500
+11 POLAND               10 0.0222  10   0    0.0000
+12 INDIA                 9 0.0200   9   0    0.0000
+13 BELGIUM               8 0.0178   5   3    0.3750
+14 AUSTRALIA             7 0.0156   5   2    0.2857
+15 CANADA                7 0.0156   7   0    0.0000
+16 GEORGIA               7 0.0156   5   2    0.2857
+17 NETHERLANDS           7 0.0156   5   2    0.2857
+18 DENMARK               6 0.0133   6   0    0.0000
+19 MEXICO                6 0.0133   5   1    0.1667
+20 PORTUGAL              6 0.0133   2   4    0.6667
+
+
+SCP: Single Country Publications
+
+MCP: Multiple Country Publications
+
+
+Total Citations per Country
+
+           Country      Total Citations Average Article Citations
+1  USA                             2348                    24.458
+2  CHINA                            889                    21.167
+3  SPAIN                            624                    31.200
+4  UNITED KINGDOM                   471                    23.550
+5  ITALY                            334                    13.917
+6  BELGIUM                          280                    35.000
+7  GERMANY                          254                    21.167
+8  GEORGIA                          186                    26.571
+9  FRANCE                           141                    28.200
+10 AUSTRIA                          136                    34.000
+11 AUSTRALIA                        120                    17.143
+12 SWEDEN                           120                    60.000
+13 JAPAN                            115                     7.188
+14 BRAZIL                            94                     6.714
+15 CANADA                            89                    12.714
+16 CHILE                             83                    20.750
+17 DENMARK                           76                    12.667
+18 KOREA                             76                     4.750
+19 INDONESIA                         75                     4.412
+20 GREECE                            74                    24.667
+
+
+Most Relevant Sources
+
+                                   Sources        Articles
+1  PUBLIC CHOICE                                        41
+2  PUBLIC FINANCE REVIEW                                34
+3  JOURNAL OF PUBLIC ECONOMICS                          19
+4  INTERNATIONAL TAX AND PUBLIC FINANCE                 18
+5  LOCAL GOVERNMENT STUDIES                             16
+6  PUBLIC BUDGETING AND FINANCE                         16
+7  EUROPEAN JOURNAL OF POLITICAL ECONOMY                15
+8  LEX LOCALIS                                          15
+9  JOURNAL OF URBAN ECONOMICS                           11
+10 WORLD DEVELOPMENT                                    10
+11 INTERNATIONAL JOURNAL OF PUBLIC ADMINISTRATION        9
+12 REGIONAL SCIENCE AND URBAN ECONOMICS                  9
+13 APPLIED ECONOMICS                                     8
+14 JOURNAL OF DEVELOPMENT ECONOMICS                      8
+15 AMERICAN REVIEW OF PUBLIC ADMINISTRATION              7
+16 NATIONAL TAX JOURNAL                                  7
+17 REGIONAL STUDIES                                      7
+18 ECONOMIC ANALYSIS AND POLICY                          6
+19 PUBLIC AND MUNICIPAL FINANCE                          6
+20 PUBLIUS: THE JOURNAL OF FEDERALISM                    6
+
+
+Most Relevant Keywords
+
+     Author Keywords (DE)      Articles      Keywords-Plus (ID)     Articles
+1  FISCAL DECENTRALIZATION           98 LOCAL GOVERNMENT                 113
+2  INTERGOVERNMENTAL TRANSFERS       77 DECENTRALIZATION                  60
+3  FLYPAPER EFFECT                   65 FISCAL POLICY                     58
+4  FISCAL ILLUSION                   62 PUBLIC SPENDING                   48
+5  INTERGOVERNMENTAL GRANTS          47 TAX SYSTEM                        32
+6  LOCAL GOVERNMENT                  42 CHINA                             27
+7  FISCAL FEDERALISM                 29 INTERGOVERNMENTAL RELATIONS       24
+8  DECENTRALIZATION                  27 UNITED STATES                     23
+9  FISCAL DECENTRALISATION           20 FISCAL REFORM                     16
+10 LOCAL GOVERNMENTS                 17 GOVERNANCE APPROACH               15
+11 INTERGOVERNMENTAL TRANSFER        12 GOVERNMENT                        15
+12 MUNICIPALITIES                    12 EMPIRICAL ANALYSIS                14
+13 INDONESIA                         11 AUTONOMY                          13
+14 EFFICIENCY                        10 ECONOMIC DEVELOPMENT              13
+15 FISCAL POLICY                     10 FINANCE                           13
+16 FEDERALISM                         9 POLITICAL ECONOMY                 13
+17 FISCAL CAPACITY                    9 BRAZIL                            12
+18 LOCAL PUBLIC FINANCE               9 EXPENDITURE                       12
+19 PANEL DATA                         9 FEDERAL SYSTEM                    12
+20 POLITICAL ECONOMY                  9 FINANCIAL SYSTEM                  12
+
+$MainInformation
+ [1] "\n\nMAIN INFORMATION ABOUT DATA\n\n"                  "Timespan                              1964 : 2026 \n"
+ [3] "Sources (Journals, Books, etc)        336 \n"         "Documents                             721 \n"        
+ [5] "Annual Growth Rate %                  6.37 \n"        "Document Average Age                  12.8 \n"       
+ [7] "Average citations per doc             17.56 \n"       "Average citations per year per doc    1.343 \n"      
+ [9] "References                            1 \n"           "\nDOCUMENT TYPES                     \n"             
+[11] "article      721 \n"                                  "\nDOCUMENT CONTENTS\n"                               
+[13] "Keywords Plus (ID)                    688 \n"         "Author's Keywords (DE)                1426 \n"       
+[15] "\nAUTHORS\n"                                          "Authors                               1287 \n"       
+[17] "Author Appearances                    1539 \n"        "Authors of single-authored docs       210 \n"        
+[19] "\nAUTHORS COLLABORATION\n"                            "Single-authored docs                  225 \n"        
+[21] "Documents per Author                  0.56 \n"        "Co-Authors per Doc                    2.13 \n"       
+[23] "International co-authorships %        15.67 \n"       "\n"                                                  
+
+$MainInformationDF
+                          Description   Results
+1         MAIN INFORMATION ABOUT DATA          
+2                            Timespan 1964:2026
+3      Sources (Journals, Books, etc)       336
+4                           Documents       721
+5                Annual Growth Rate %      6.37
+6                Document Average Age      12.8
+7           Average citations per doc     17.56
+8  Average citations per year per doc     1.343
+9                          References         1
+10                     DOCUMENT TYPES          
+11                            article       721
+12                  DOCUMENT CONTENTS          
+13                 Keywords Plus (ID)       688
+14             Author's Keywords (DE)      1426
+15                            AUTHORS          
+16                            Authors      1287
+17                 Author Appearances      1539
+18    Authors of single-authored docs       210
+19              AUTHORS COLLABORATION          
+20               Single-authored docs       225
+21               Documents per Author      0.56
+22                 Co-Authors per Doc      2.13
+23     International co-authorships %     15.67
+24                                             
+
+$AnnualProduction
+   Year    Articles
+1     1964        1
+2     1975        1
+3     1976        1
+4     1977        2
+5     1978        3
+6     1980        2
+7     1982        5
+8     1983        4
+9     1984        4
+10    1985        3
+11    1986        3
+12    1987        6
+13    1988        7
+14    1989        3
+15    1990        7
+16    1991        3
+17    1992        6
+18    1993        7
+19    1994        4
+20    1995        9
+21    1996        7
+22    1997        2
+23    1998        9
+24    1999        8
+25    2000        5
+26    2001       16
+27    2002       10
+28    2003        6
+29    2004        8
+30    2005        6
+31    2006        6
+32    2007       12
+33    2008       15
+34    2009       11
+35    2010       11
+36    2011       21
+37    2012       19
+38    2013       12
+39    2014       21
+40    2015       30
+41    2016       28
+42    2017       43
+43    2018       30
+44    2019       31
+45    2020       34
+46    2021       37
+47    2022       45
+48    2023       30
+49    2024       37
+50    2025       44
+51    2026       46
+
+$AnnualGrowthRate
+[1] 6.37
+
+$MostProdAuthors
+       Authors        Articles     Authors        Articles Fractionalized
+1  PARK S                    6 TURNBULL GK                           3.50
+2  BASTIDA F                 5 PARK S                                3.00
+3  JONES P                   5 TIMUSHEV EN                           3.00
+4  MARTINEZ-VAZQUEZ J        5 WYCKOFF PG                            3.00
+5  MORRISSEY O               5 MARTINEZ-VAZQUEZ J                    2.83
+6  SACCHI A                  5 HEYNDELS B                            2.50
+7  ABBOTT A                  4 MALIČKÁ L                             2.50
+8  BENITO B                  4 KIM J                                 2.33
+9  DOLLERY BE                4 JONES P                               2.25
+10 GEMMELL N                 4 ABBOTT A                              2.00
+11 GUILLAMÓN MD              4 DILORENZO TJ                          2.00
+12 HEYNDELS B                4 DOLLERY BE                            2.00
+13 KIM J                     4 GEMMELL N                             2.00
+14 KIM Y                     4 GORDON S                              2.00
+15 LIU L                     4 KALB A                                2.00
+16 MAHER CS                  4 LOWERY D                              2.00
+17 PORCELLI F                4 MAHER CS                              2.00
+18 PORTO A                   4 MOURAO PR                             2.00
+19 SALOTTI S                 4 MOURÃO PR                             2.00
+20 SMOLDERS C                4 NENKOVA P                             2.00
+
+$MostCitedPapers
+                                  Paper                                         DOI  TC TCperYear   NTC
+1  ZHANG K, 2017, ENERGY POLICY                  10.1016/j.enpol.2017.01.023        306     30.60 14.85
+2  EVANS WN, 2007, J PUBLIC ECON                 10.1016/j.jpubeco.2006.05.014      275     13.75  4.51
+3  WAGNER RE, 1976, PUBLIC CHOICE                10.1007/BF01726330                 267      5.24  1.00
+4  KNIGHT B, 2002, AM ECON REV                   10.1257/000282802760015612         248      9.92  4.57
+5  GUILLAMÓN MD, 2011, LOCAL GOV STUD            10.1080/03003930.2011.588704       239     14.94  6.94
+6  BROWNING EDGARK, 1975, ECON INQ               10.1111/j.1465-7295.1975.tb00255.x 207      3.98  1.00
+7  REMMER KL, 2004, AM J POLIT SCI               10.1111/j.0092-5853.2004.00057.x   183      7.96  3.35
+8  BLUME L, 1984, QUARTERLY JOURNAL OF ECONOMICS 10.2307/1885721                    177      4.12  2.51
+9  FAFCHAMPS M, 2014, J DEV ECON                 10.1016/j.jdeveco.2013.09.010      171     13.15  7.54
+10 GORDON N, 2004, J PUBLIC ECON                 10.1016/j.jpubeco.2003.09.002      170      7.39  3.11
+11 ANSOLABEHERE S, 2006, SCAND J ECON            10.1111/j.1467-9442.2006.00470.x   170      8.10  4.15
+12 POMMEREHNE WW, 1978, KYKLOS                   10.1111/j.1467-6435.1978.tb00648.x 156      3.18  2.49
+13 BASTIDA F, 2007, PUBLIC ADM                   10.1111/j.1467-9299.2007.00664.x   155      7.75  2.54
+14 HAMILTON BW, 1983, J PUBLIC ECON              10.1016/0047-2727(83)90040-3       135      3.07  2.71
+15 BRACCO E, 2015, J PUBLIC ECON                 10.1016/j.jpubeco.2014.11.007      132     11.00  9.25
+16 KUAI P, 2019, J CLEAN PROD                    10.1016/j.jclepro.2019.118089      126     15.75  7.19
+17 DAHLBERG M, 2008, J PUBLIC ECON               10.1016/j.jpubeco.2007.05.004      118      6.21  4.72
+18 CARROLL DA, 2009, PUBLIC BUDGETING FINANC     10.1111/j.1540-5850.2009.00922.x   114      6.33  3.35
+19 FISHER RC, 1982, J URBAN ECON                 10.1016/0094-1190(82)90021-3       114      2.53  2.24
+20 WITTE KD, 2011, J URBAN ECON                  10.1016/j.jue.2010.12.002          106      6.62  3.08
+
+$MostProdCountries
+          Country Articles   Freq SCP MCP MCP_Ratio
+1  USA                  96 0.2133  79  17    0.1771
+2  CHINA                42 0.0933  35   7    0.1667
+3  ITALY                24 0.0533  14  10    0.4167
+4  SPAIN                20 0.0444  12   8    0.4000
+5  UNITED KINGDOM       20 0.0444  10  10    0.5000
+6  INDONESIA            17 0.0378  14   3    0.1765
+7  JAPAN                16 0.0356  15   1    0.0625
+8  KOREA                16 0.0356  12   4    0.2500
+9  BRAZIL               14 0.0311  12   2    0.1429
+10 GERMANY              12 0.0267   9   3    0.2500
+11 POLAND               10 0.0222  10   0    0.0000
+12 INDIA                 9 0.0200   9   0    0.0000
+13 BELGIUM               8 0.0178   5   3    0.3750
+14 AUSTRALIA             7 0.0156   5   2    0.2857
+15 CANADA                7 0.0156   7   0    0.0000
+16 GEORGIA               7 0.0156   5   2    0.2857
+17 NETHERLANDS           7 0.0156   5   2    0.2857
+18 DENMARK               6 0.0133   6   0    0.0000
+19 MEXICO                6 0.0133   5   1    0.1667
+20 PORTUGAL              6 0.0133   2   4    0.6667
+
+$TCperCountries
+           Country      Total Citations Average Article Citations
+1  USA                             2348                    24.458
+2  CHINA                            889                    21.167
+3  SPAIN                            624                    31.200
+4  UNITED KINGDOM                   471                    23.550
+5  ITALY                            334                    13.917
+6  BELGIUM                          280                    35.000
+7  GERMANY                          254                    21.167
+8  GEORGIA                          186                    26.571
+9  FRANCE                           141                    28.200
+10 AUSTRIA                          136                    34.000
+11 AUSTRALIA                        120                    17.143
+12 SWEDEN                           120                    60.000
+13 JAPAN                            115                     7.188
+14 BRAZIL                            94                     6.714
+15 CANADA                            89                    12.714
+16 CHILE                             83                    20.750
+17 DENMARK                           76                    12.667
+18 KOREA                             76                     4.750
+19 INDONESIA                         75                     4.412
+20 GREECE                            74                    24.667
+
+$MostRelSources
+                                   Sources        Articles
+1  PUBLIC CHOICE                                        41
+2  PUBLIC FINANCE REVIEW                                34
+3  JOURNAL OF PUBLIC ECONOMICS                          19
+4  INTERNATIONAL TAX AND PUBLIC FINANCE                 18
+5  LOCAL GOVERNMENT STUDIES                             16
+6  PUBLIC BUDGETING AND FINANCE                         16
+7  EUROPEAN JOURNAL OF POLITICAL ECONOMY                15
+8  LEX LOCALIS                                          15
+9  JOURNAL OF URBAN ECONOMICS                           11
+10 WORLD DEVELOPMENT                                    10
+11 INTERNATIONAL JOURNAL OF PUBLIC ADMINISTRATION        9
+12 REGIONAL SCIENCE AND URBAN ECONOMICS                  9
+13 APPLIED ECONOMICS                                     8
+14 JOURNAL OF DEVELOPMENT ECONOMICS                      8
+15 AMERICAN REVIEW OF PUBLIC ADMINISTRATION              7
+16 NATIONAL TAX JOURNAL                                  7
+17 REGIONAL STUDIES                                      7
+18 ECONOMIC ANALYSIS AND POLICY                          6
+19 PUBLIC AND MUNICIPAL FINANCE                          6
+20 PUBLIUS: THE JOURNAL OF FEDERALISM                    6
+
+$MostRelKeywords
+     Author Keywords (DE)      Articles      Keywords-Plus (ID)     Articles
+1  FISCAL DECENTRALIZATION           98 LOCAL GOVERNMENT                 113
+2  INTERGOVERNMENTAL TRANSFERS       77 DECENTRALIZATION                  60
+3  FLYPAPER EFFECT                   65 FISCAL POLICY                     58
+4  FISCAL ILLUSION                   62 PUBLIC SPENDING                   48
+5  INTERGOVERNMENTAL GRANTS          47 TAX SYSTEM                        32
+6  LOCAL GOVERNMENT                  42 CHINA                             27
+7  FISCAL FEDERALISM                 29 INTERGOVERNMENTAL RELATIONS       24
+8  DECENTRALIZATION                  27 UNITED STATES                     23
+9  FISCAL DECENTRALISATION           20 FISCAL REFORM                     16
+10 LOCAL GOVERNMENTS                 17 GOVERNANCE APPROACH               15
+11 INTERGOVERNMENTAL TRANSFER        12 GOVERNMENT                        15
+12 MUNICIPALITIES                    12 EMPIRICAL ANALYSIS                14
+13 INDONESIA                         11 AUTONOMY                          13
+14 EFFICIENCY                        10 ECONOMIC DEVELOPMENT              13
+15 FISCAL POLICY                     10 FINANCE                           13
+16 FEDERALISM                         9 POLITICAL ECONOMY                 13
+17 FISCAL CAPACITY                    9 BRAZIL                            12
+18 LOCAL PUBLIC FINANCE               9 EXPENDITURE                       12
+19 PANEL DATA                         9 FEDERAL SYSTEM                    12
+20 POLITICAL ECONOMY                  9 FINANCIAL SYSTEM                  12
+
