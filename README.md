@@ -1,7 +1,7 @@
 # O Efeito Flypaper e a Ilusão Fiscal sob a Ótica dos Royalties do Petróleo
 
 **Universidade de Brasília (UnB)**  
-**Aluno:** Carlos Henrique Ferreira Queiroz
+**Aluno:** Carlos Henrique Ferreira Queiroz  
 **Disciplina:** Finanças do Setor Público — CCA0169, turma 01, 2026.2  
 **Trabalho:** P2 — artigo científico e base de dados  
 **Recorte empírico:** Rio de Janeiro e Niterói (municípios) e França (agregado das administrações públicas locais — *APUL*)  
